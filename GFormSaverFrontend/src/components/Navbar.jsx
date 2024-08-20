@@ -14,10 +14,10 @@ const Navbar = ({ isHomePage = false }) => {
     ["Security", "#SecuritySec"],
   ];
   const navLinksRight = [
-    ["Github", "https://github.com/"],
+    ["Github", "https://github.com/Basheer2910/GFormSaver"],
     [
       "Extension",
-      "https://drive.google.com/drive/folders/1OcZWtve42-W3c9Qc8X0OHsFMpNZVxxRl?usp=sharing",
+      "https://drive.google.com/drive/folders/1-MdUxPSamypMEfKGBk9jvGoZUku_xRlX",
     ],
   ];
   return (
