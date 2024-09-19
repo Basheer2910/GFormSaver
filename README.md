@@ -8,7 +8,7 @@ This very question inspired me to create GFormSaver, a tailored management tool 
 
 ## Why it is useful?
 
-- GFormSaver makes it easy for Google Forms users to manage their responses efficiently.
+- GFormSaver makes it easy for Google Forms users to manage their responses effectively.
 - With GFormSaver, organizing and tracking Google Forms submissions becomes effortless.
 - Save time and effort with GFormSaver's streamlined management of Google Forms data.
 - Keep your Google Forms data secure and accessible with GFormSaver's user-friendly tools.
